@@ -36,11 +36,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-#Wyatt's First CS193 Homework#
+# Wyatt's First CS193 Homework
 
--I know some friends in this class!
--No tests is super cool and gives me less stress
--The online sessions are optional but still give me an easy way to get help if I need it.
+- I know some friends in this class!
+- No tests is super cool and gives me less stress
+- The online sessions are optional but still give me an easy way to get help if I need it.
 
 ```
 I'm new to Github but I hope that this works as I want it to. Hopefully I can compare how the code block affects words using this!
